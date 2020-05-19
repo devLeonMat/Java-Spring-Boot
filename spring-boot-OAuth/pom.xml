@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.bolsadeideas.springboot.backend.apirest</groupId>
-	<artifactId>spring-boot-backend-apirest</artifactId>
+	<artifactId>spring-boot-OAuth</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>spring-boot-backend-apirest</name>
+	<name>spring-boot-OAuth</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
